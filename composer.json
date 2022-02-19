@@ -1,0 +1,17 @@
+{
+    "name": "emrebulutlar/supermetrics-refactor",
+    "description": "supermetrics assignment",
+    "autoload": {
+        "psr-4": {
+            "Supermetrics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ziya Emre Bulutlar",
+            "email": "emrebulutlar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
